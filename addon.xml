@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.re-touched"
-  version="2.1.1"
-  name="re-Touched"
+  id="skin.re-touched-pvr"
+  version="2.1.1-pvr"
+  name="re-Touched-pvr"
   provider-name="Jezz_X">
   <requires>
     <import addon="xbmc.gui" version="5.0.0"/>
